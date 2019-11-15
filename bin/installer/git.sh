@@ -2,4 +2,4 @@
 echo "# --------------------------------------------------------------------- #"
 echo "# Installing Git..."
 echo "# --------------------------------------------------------------------- #"
-sudo apt=get install git-core -y
+sudo apt-get install git-core -y
